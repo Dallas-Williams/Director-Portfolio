@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Path to Department Director - Professional Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Professional Portfolio</h2>
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="#home" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#career-strategy" class="nav-link">Career Strategy</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#jira-mastery" class="nav-link">Jira Mastery</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#templates" class="nav-link">Templates</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#progress" class="nav-link">Progress</a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Home/Introduction Section -->
+    <section id="home" class="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1 class="hero-title">Your Name</h1>
+                <p class="hero-subtitle">Current Role | Fintech Professional</p>
+                <h2 class="hero-headline">Path to Department Director at Netspend/Ouro: A One-Year Journey</h2>
+                <p class="hero-description">Transforming ambition into achievement through strategic skill development and leadership excellence in financial technology.</p>
+                <div class="hero-cta">
+                    <a href="#career-strategy" class="btn btn-primary">Explore My Strategy</a>
+                    <a href="#progress" class="btn btn-secondary">Track Progress</a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="timeline-container">
+                    <h3>One-Year Roadmap</h3>
+                    <div class="timeline">
+                        <div class="timeline-item active">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Month 1-2</h4>
+                                <p>Mastering Jira Ticketing Processes</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Month 3-4</h4>
+                                <p>Advanced Project Management</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Month 5-6</h4>
+                                <p>Leadership & Team Building</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-content">
+                                <h4>Month 7-8</h4>
+                                <p>Fintech Industry
